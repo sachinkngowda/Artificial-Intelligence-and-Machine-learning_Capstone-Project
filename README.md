@@ -19,7 +19,6 @@ Dataset/
 Food_101/
 AIML-Computer-Vision-Food-101-Detection.ipynb
 ```
-
 - `Dataset` - contains the detailed data points of food images.
 - `AIML-Computer-Vision-Food-101-Detection.ipynb` - Contains code base to build the AIMl food detection model.
 -  `Food_101` — contains the image dataset which needs to train & test the model.
