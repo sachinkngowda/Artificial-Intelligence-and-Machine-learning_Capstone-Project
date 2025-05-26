@@ -1,5 +1,3 @@
-# Artificial-Intelligence-and-Machine-learning_Capstone-Project
-
 # AIML - Capstone Project - Food 101 Detection
 
 This repository contains a dataset and code base of Artificial Intelligence - Machine Learning Capstone Project for Food 101 Detection.
